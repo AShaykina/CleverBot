@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.washington.cs.types.checker:checker-framework:$version$">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/washington/cs/types/checker/checker-framework/$version$/checker-framework-$version$.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/washington/cs/types/checker/checker-framework/$version$/checker-framework-$version$-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/washington/cs/types/checker/checker-framework/$version$/checker-framework-$version$-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
