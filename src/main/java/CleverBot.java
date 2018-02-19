@@ -21,12 +21,12 @@ public class CleverBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "Name";
+        return "Clever_Turing_Bot";
     }
 
     @Override
     public String getBotToken() {
-        return "Token";
+        return "485311604:AAFeCWU_3ZJ6WikldmSWArmIoVo8OsjP6kA";
     }
 
     @SuppressWarnings("deprecation")
