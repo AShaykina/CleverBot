@@ -26,7 +26,7 @@ public class CleverBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "485311604:AAFeCWU_3ZJ6WikldmSWArmIoVo8OsjP6kA";
+        return "Token";
     }
 
     @SuppressWarnings("deprecation")
